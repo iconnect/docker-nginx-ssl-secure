@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:latest
 MAINTAINER MarvAmBass
 
 ENV LANG C.UTF-8
